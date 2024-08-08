@@ -435,7 +435,7 @@ public class MainFrame extends JFrame {
 		ThuVienSgu.setBounds(0, 0, 187, 62);
 		menuleft.add(ThuVienSgu);
 
-		lblTrangchu = new JLabel("  Trang Chủ");
+		lblTrangchu = new JLabel("Home Page");
 		lblTrangchu.setBackground(new Color(64, 64, 64));
 		lblTrangchu.setOpaque(true);
 		lblTrangchu.setFont(new Font("Tahoma", Font.BOLD, 18));
